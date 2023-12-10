@@ -52,6 +52,5 @@ features:
   details: 支持自定义的中央HTTP错误处理。API易于扩展。
 
 copyright: false
-
 ---
 
