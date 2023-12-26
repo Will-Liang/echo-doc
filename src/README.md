@@ -4,7 +4,7 @@ icon: home
 title: 首页
 # bgImage: https://liangimage.oss-cn-beijing.aliyuncs.com/image-20231210185448154.png
 # heroImage: assets\image\image-20231210185448154.png
-heroText: Echo官方文档的汉化文
+heroText: Echo官方文档的汉化版
 tagline: 对于官方文档进行汉化。
 actions:
   - text: 快速开始 💡
@@ -47,9 +47,9 @@ features:
   icon: https://cdn.jsdelivr.net/gh/Will-Liang/ImageHost0/build/%E4%BB%A3%E7%A0%81.png
   details: 使用任何模板引擎进行模板渲染。
 
-- title: 可扩展的
-  icon: https://cdn.jsdelivr.net/gh/Will-Liang/ImageHost0/build/%E8%B0%83%E8%8A%82.png
-  details: 支持自定义的中央HTTP错误处理。API易于扩展。
+# - title: 可扩展的
+#   icon: https://cdn.jsdelivr.net/gh/Will-Liang/ImageHost0/build/%E8%B0%83%E8%8A%82.png
+#   details: 支持自定义的中央HTTP错误处理。API易于扩展。
 
 copyright: false
 ---
